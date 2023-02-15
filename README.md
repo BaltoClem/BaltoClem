@@ -1,6 +1,4 @@
-<h1 align="center"><div align="center"><img alt="test" width="200" src="Balto_coding_in_cyberpunk_style_09adfeed-cc21-4de9-bd8d-d1880f20ae91.png"></div>
-Hi 👋, I'm Clément
-</h1>
+<h1 align="center">Hi 👋, I'm Clément and I'm a developer in France.</h1>
 <h3 align="center">A passionate developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baltoclem&label=Profile%20views&color=0e75b6&style=flat" alt="baltoclem" /> </p>
