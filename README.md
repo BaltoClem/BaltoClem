@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clément</h1>
+<div align="center"><img align="center" alt="test" width="600" src="Balto_coding_in_cyberpunk_style_09adfeed-cc21-4de9-bd8d-d1880f20ae91.png"></div>
 <h3 align="center">A passionate developer from France</h3>
 
 <div align="center"><img align="center" alt="test" width="600" src="https://media2.giphy.com/media/yZ5NMVSFMeBPGJmiAS/giphy.gif"></div>
