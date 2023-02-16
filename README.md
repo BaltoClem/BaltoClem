@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Clément and I'm a developer in France.</h1>
-<h3 align="center">A passionate developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baltoclem&label=Profile%20views&color=0e75b6&style=flat" alt="baltoclem" /> </p>
+<div align="center"><img width="800" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"></div>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -23,6 +22,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baltoclem&show_icons=true&locale=en&layout=compact" alt="baltoclem" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baltoclem&show_icons=true&locale=en" alt="baltoclem" /></p>
+<div align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=baltoclem&" alt="baltoclem" /></div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baltoclem&" alt="baltoclem" /></p>
+<div align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=baltoclem&show_icons=true&locale=en" alt="baltoclem" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=baltoclem&label=Profile%20views&color=0e75b6&style=flat" alt="baltoclem" /> </p>
