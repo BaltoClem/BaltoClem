@@ -29,6 +29,6 @@
   <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
 
 <p>
-<img align="left" width="300" src="https://github-readme-stats.vercel.app/api?username=baltoclem&show_icons=true&locale=en" alt="baltoclem" />
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=baltoclem&show_icons=true&locale=en&layout=compact" alt="baltoclem" />
+<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=baltoclem&show_icons=true&locale=en" alt="baltoclem" />
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=baltoclem&show_icons=true&locale=en&layout=compact" alt="baltoclem" />
 </p>
