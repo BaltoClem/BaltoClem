@@ -30,5 +30,5 @@
 
 <p>
 <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=baltoclem&show_icons=true&locale=en" alt="baltoclem" />
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=baltoclem&show_icons=true&locale=en&layout=compact" alt="baltoclem" />
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=baltoclem&show_icons=true&locale=en&layout=compact" alt="baltoclem" />
 </p>
